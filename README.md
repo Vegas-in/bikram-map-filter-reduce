@@ -17,9 +17,9 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Map ###
 
-- [ ] 1.- Dado el array **numbers** cuyo valor sea [4, 5, 6, 7, 8, 9, 10], crea una función **elevados** que devuelva un array con el cuadrado de cada uno de los elementos.
+- [V] 1.- Dado el array **numbers** cuyo valor sea [4, 5, 6, 7, 8, 9, 10], crea una función **elevados** que devuelva un array con el cuadrado de cada uno de los elementos.
 
-- [ ] 2.- Dado el array **foodList** con valor ['Pizza', 'Ramen', 'Paella', 'Entrecot'], generar un segundo array que consiga generar de salida el resultado esperado.
+- [V] 2.- Dado el array **foodList** con valor ['Pizza', 'Ramen', 'Paella', 'Entrecot'], generar un segundo array que consiga generar de salida el resultado esperado.
 ```
 [
     'Como soy de Italia, amo comer Pizza',
@@ -29,7 +29,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 ]
 ```
 
-- [ ] 3.- Dado el  array **staff**, crear un segundo array que forme frases como en el ejemplo accediendo a las propiedades del objeto proporcionado:
+- [V] 3.- Dado el  array **staff**, crear un segundo array que forme frases como en el ejemplo accediendo a las propiedades del objeto proporcionado:
 ```
 const staff = [
   {
@@ -68,7 +68,7 @@ const staff = [
 
 ### Filter ###
 
-- [ ] 4.- Crea un segundo array result4 a partir del array numbers2 que devuelva solo los impares
+- [V] 4.- Crea un segundo array result4 a partir del array numbers2 que devuelva solo los impares
 
 ```
 const numbers2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
